@@ -1,0 +1,2 @@
+Main-Class: apppracticafinal.AppPracticaFinal
+Class-Path: /home/javier/Desktop/lib/java/biblioteca.jar
